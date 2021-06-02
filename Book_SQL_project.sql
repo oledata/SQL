@@ -46,7 +46,7 @@ sqrt(4)=2.0
 sqrt(2)=1.41
 degrees(3)=171.8...
 abs(-1)=1
-**/
+*/
 
 /* At the end of the year, the price of all books in the warehouse is recalculated - it is reduced by 30%. 
  * Write a SQL query that selects titles, authors, quantities from the book table and calculates new book prices. 
