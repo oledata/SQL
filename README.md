@@ -1,2 +1,2 @@
-# data-engineering
-data engineering learning project
+# SQL
+SQL learning project
